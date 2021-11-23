@@ -24,5 +24,5 @@ the tool take two arguments : url - path
 
 python3 403bypasser.py url path
 
-EX : python3 403bypasser.py https://www.example.com /index ( space between url and path )
+EX : python3 403bypasser.py https://www.example.com/ admin ( space between url and path )
 
