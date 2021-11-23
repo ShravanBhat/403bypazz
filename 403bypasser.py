@@ -6,6 +6,7 @@ from colorama import Fore, Style
 import urllib3
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
+print("python3 403bypasser.py https://www.example.com/ admin ( space between url and path )")
 domain = sys.argv[1]
 path = sys.argv[2]
 url=domain+path
